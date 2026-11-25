@@ -1,0 +1,11 @@
+# Gradle & Android Studio
+.gradle/
+.idea/
+build/
+app/build/
+local.properties
+
+# Node.js backend
+backend/node_modules/
+backend/dist/
+backend/.env
